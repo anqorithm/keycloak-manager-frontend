@@ -30,7 +30,7 @@ function App() {
         >
           <Grid item xs={12}>
             <Typography variant="h3" component="h1" gutterBottom align="center">
-              Keycloak User Manager 🔐
+              Keycloak User Manager
             </Typography>
           </Grid>
           <Grid item xs={12}>
